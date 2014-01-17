@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_40"/>
+	<classpathentry kind="lib" path="D:/program/apache-tomcat-6.0.36/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
